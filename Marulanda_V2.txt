@@ -1,0 +1,2 @@
+Concepto de versonamiento 
+El versionamiento, o control de versiones, es el proceso de gestionar y registrar cambios en archivos y proyectos a lo largo del tiempo. A través del versionamiento, se pueden almacenar diferentes estados o "versiones" de un proyecto, permitiendo revertir a versiones anteriores si es necesario, comparar cambios, colaborar con otros usuarios de manera estructurada y minimizar errores.
