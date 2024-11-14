@@ -16,3 +16,4 @@ Es una variable que almacena datos de un objeto.
 La clase es la plantilla; el objeto es una instancia de esa plantilla.
 9)¿Cuál es la diferencia entre public, private y protected?
 Son modificadores de acceso: public permite el acceso desde cualquier lugar, protected permite el acceso solo en la clase y sus subclases, y private restringe el acceso solo a la clase donde se define.
+10)¿Qué es un diagrama de clases y cuál es su propósito en POO?
