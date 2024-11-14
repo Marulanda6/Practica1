@@ -12,3 +12,4 @@ La herencia permite crear una nueva clase a partir de una existente, reutilizand
 Es una función definida dentro de una clase que describe el comportamiento de los objetos de esa clase.
 7)¿Qué es un atributo en una clase?
 Es una variable que almacena datos de un objeto.
+8)¿Cuál es la diferencia entre una clase y un objeto?
