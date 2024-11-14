@@ -14,4 +14,5 @@ Es una función definida dentro de una clase que describe el comportamiento de l
 Es una variable que almacena datos de un objeto.
 8)¿Cuál es la diferencia entre una clase y un objeto?
 La clase es la plantilla; el objeto es una instancia de esa plantilla.
+9)¿Cuál es la diferencia entre public, private y protected?
 
