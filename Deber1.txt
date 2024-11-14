@@ -9,3 +9,4 @@ Un objeto es una instancia de una clase; es decir, es un "ejemplar" creado a par
 5)¿Qué es la herencia y cómo se utiliza en POO?
 La herencia permite crear una nueva clase a partir de una existente, reutilizando y extendiendo su funcionalidad.
 6)¿Qué es un método en una clase?
+Es una función definida dentro de una clase que describe el comportamiento de los objetos de esa clase.
