@@ -6,4 +6,4 @@ Una clase es un modelo o plantilla para crear objetos. Define atributos y métod
 Un objeto es una instancia de una clase; es decir, es un "ejemplar" creado a partir de la plantilla que define la clase.
 4)¿Cuáles son los principales pilares de la POO?
 Un objeto es una instancia de una clase; es decir, es un "ejemplar" creado a partir de la plantilla que define la clase.
-
+5)¿Qué es la herencia y cómo se utiliza en POO?
