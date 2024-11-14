@@ -7,3 +7,5 @@ Un objeto es una instancia de una clase; es decir, es un "ejemplar" creado a par
 4)¿Cuáles son los principales pilares de la POO?
 Un objeto es una instancia de una clase; es decir, es un "ejemplar" creado a partir de la plantilla que define la clase.
 5)¿Qué es la herencia y cómo se utiliza en POO?
+La herencia permite crear una nueva clase a partir de una existente, reutilizando y extendiendo su funcionalidad.
+
