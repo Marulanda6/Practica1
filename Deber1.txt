@@ -1,1 +1,2 @@
-¿Qué es la Programación Orientada a Objetos?
+1)¿Qué es la Programación Orientada a Objetos?
+La Programación Orientada a Objetos (POO) es un paradigma de programación que utiliza objetos y clases para organizar el código. Los objetos representan entidades del mundo real con propiedades (atributos) y comportamientos (métodos), mientras que las clases son plantillas para crear objetos.
