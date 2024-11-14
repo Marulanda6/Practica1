@@ -4,4 +4,4 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación que 
 Una clase es un modelo o plantilla para crear objetos. Define atributos y métodos que los objetos creados tendrán.
 3)¿Qué es un objeto y cómo se relaciona con una clase? 
 Un objeto es una instancia de una clase; es decir, es un "ejemplar" creado a partir de la plantilla que define la clase.
-
+4)¿Cuáles son los principales pilares de la POO?
